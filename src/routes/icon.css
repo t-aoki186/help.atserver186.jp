@@ -1,0 +1,40 @@
+/* アイコンのベーススタイル */
+.ats-custom-icon {
+  display: inline-block;
+  width: 1em;   /* 文字サイズに合わせる */
+  height: 1em;
+  background-color: currentColor; /* 文字色と同じ色にする */
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  vertical-align: middle;
+}
+
+/* 哺乳瓶アイコン */
+.icon-baby-bottle {
+  -webkit-mask-image: url("https://cdn.atserver186.jp/img/tf26/material/baby-bottle.svg");
+  mask-image: url("https://cdn.atserver186.jp/img/tf26/material/baby-bottle.svg");
+}
+
+/*体調不良*/
+.icon-poor-health {
+  -webkit-mask-image: url("https://cdn.atserver186.jp/img/tf26/material/poor-health.webp");
+  mask-image: url("https://cdn.atserver186.jp/img/tf26/material/poor-health.webp");
+}
+
+.icon-megaphone{
+  -webkit-mask-image: url("https://cdn.atserver186.jp/img/tf26/material/megaphone.svg");
+  mask-image: url("https://cdn.atserver186.jp/img/tf26/material/megaphone.svg");
+}
+
+.icon-x-mark-thin{
+  -webkit-mask-image: url("https://cdn.atserver186.jp/img/tf26/material/x-mark-thin.svg");
+  mask-image: url("https://cdn.atserver186.jp/img/tf26/material/x-mark-thin.svg");
+}
+
+/*=== ロゴ系 ==*/
+.icon-misskey-mi{
+  -webkit-mask-image: url("https://cdn.atserver186.jp/img/material/logo/misskey-mi-logo.svg");
+  mask-image: url("https://cdn.atserver186.jp/img/material/logo/misskey-mi-logo.svg");
+}
