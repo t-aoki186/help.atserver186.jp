@@ -213,13 +213,13 @@
 	<link rel="icon" href={favicon} />
 	<!--s:SEO-->
 	<!--各ページでheadに内容がなければ以下の内容が表示される-->
-	<title>ATSERVER Blog</title>
+	<title>ATSERVER tos</title>
 	<meta name="description" content="ATSERVERのブログです。" />
 	<meta name="keywords" content="ブログ,ATSERVER,技術" />
-	<meta property="og:site_name" content="ATSERVER Blog" />
+	<meta property="og:site_name" content="ATSERVER tos" />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://blog.atserver186.jp/ogp.png" />
-	<meta property="og:title" content="ATSERVER Blog" />
+	<meta property="og:image" content="https://tos.atserver186.jp/ogp.png" />
+	<meta property="og:title" content="ATSERVER tos" />
 	<link rel="canonical" href={$page.url.href} />
 	<meta property="og:url" content={$page.url.href} />
 	<meta name="twitter:card" content="summary_large_image" />
@@ -278,7 +278,7 @@
 		<!--s:ロゴ-->
 		<a href="/" class="flex shrink-0 whitespace-nowrap transition">
 			<img src={logo} alt="" class="h-10 w-auto rounded-xl" />
-			<p class="header-text m-auto ml-2 font-bold">ATSERVER Blog</p>
+			<p class="header-text m-auto ml-2 font-bold">tos</p>
 		</a>
 		<!--e:ロゴ-->
 		<!---->
@@ -855,7 +855,7 @@
 				target="_blank">お問い合わせ</a
 			>
 			<p class="footer-text">
-				&copy; 2026 ATSERVER Blog. | blog.atserver186.jp All Rights Reserved.
+				&copy; 2026 ATSERVER. | tos.atserver186.jp All Rights Reserved.
 				本サイトの無断転載は、固くこれを禁じます。
 			</p>
 			<div class="mb-16 md:mb-0"><p class="hidden">hidden-marigin-bottom</p></div>

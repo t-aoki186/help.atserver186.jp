@@ -1,4 +1,4 @@
-# ATSERVER Blog
+# ATSERVER tos
 
 ### URL
-[blog.atserver186.jp](https://blog.atserver186.jp/)
+[tos.atserver186.jp](https://tos.atserver186.jp/)
